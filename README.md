@@ -7,5 +7,5 @@
 备份访问地址：
 
 ```
-https://github.com/xuwaer/clashkit-backup/releases/download/1.8.18/ClashKit.xcframework.zip
+https://github.com/xuwaer/XrayKit-backup/releases/download/0.1.61/XrayKit.xcframework.zip
 ```
